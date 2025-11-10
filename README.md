@@ -84,7 +84,7 @@ Visit the “Deployments” section to access the live version.
 
 ## 👨‍💻 Author
 
-Developed by **Surya Kiran**
+Developed by **Surya Kiran**.
 Focused on building clean, functional, and responsive web applications.
 
 ---
